@@ -1,0 +1,11 @@
+.route{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.route a{
+text-decoration: none;
+
+}
